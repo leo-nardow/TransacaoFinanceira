@@ -10,3 +10,6 @@
 
 ### Dependências Usadas
 - JUnit - Testes Unitários
+
+### Linguagem Usada
+- Java 17
